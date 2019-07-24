@@ -1,0 +1,8 @@
+create a table named phoenix in oracle
+user should be : scott
+password should be : tiger
+
+create table phoenix(usr varchar(20),pass varchar(20),recovery varchar(10));
+
+
+paste the image in you c: drive
